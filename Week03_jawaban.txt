@@ -1,0 +1,3 @@
+Saat "kata 1" ditekan oleh user, maka kata 1 tersebut akan ditambah pernah di klik dan akan menampilkan Toast "kata 1 dipilih"
+
+Saat user menekan add, maka akan menampilkan "kata telah ditambahkan"
