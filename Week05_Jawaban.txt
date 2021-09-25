@@ -1,0 +1,6 @@
+Radio Button mempunyai 4 jenis, Oval, Line, Path dan Rect, masing - masing mepunyai fungsinya sendiri yakni:
+	Oval : lingkaran 
+	Line : garis lurus
+	Path : garis sesuai cursor 
+	Rect : kotak
+Clear berguna untuk menghapus semua asset yang dibuat oleh user yakni gambar atau goresan dsb.
