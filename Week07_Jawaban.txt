@@ -1,0 +1,1 @@
+Ketika user menekan ambil foto, aplikasi akan langsung membuka kamera di hp, setelah foto atau video diambil, user dapat melihat foto atau video tersebut.

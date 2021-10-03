@@ -1,0 +1,3 @@
+1. Intent ada 2 : Implisit yang artinya pindah dari 1 activity ke activity lainnya, sedangkan Intent Explisit artinya berpindah aplikasi 
+
+2. Fragment ada 2 cara namun hasilnya sama : layout & programmatic
