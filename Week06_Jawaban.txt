@@ -1,0 +1,9 @@
+Animasi Property
+	Kalau user menekan layar hp, akan muncul lingkaran yang kecil dan lama - lama membesar lalu diulang lagi.
+
+Animasi Drawable
+	Pas appnya dijalankan akan muncul gambar kuda dan kalau di klik, gambar kuda itu akan berubah ke kuda2 sampai 11 dan membuat semacam animasi kuda bergerak (padahal hanya gambar yang diubah)	
+
+Animasi Berbasis Ilmu Fisika
+	Ketika halo spring ditekan user, tombol tersebut akan bergerak ke bawah dan kembali.
+	Ketika galo fling diketkan user, tombol tersebut akan berputar secara vertikal.	
